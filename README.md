@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/afzalbare/">💼 LinkedIn</a> •
   <a href="mailto:fmafzalulbare@gmail.com">📧 Email</a>
 </p>
----
 
 ## 🚀 About Me
 
@@ -77,7 +76,7 @@ I specialize in creating custom WordPress websites using modern tools, page buil
 
 - Advanced WordPress development  
 - JavaScript deep concepts  
-- React (advanced level)  
+- React   
 - REST API integration with WordPress  
 - Performance optimization techniques  
 
