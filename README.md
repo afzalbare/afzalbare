@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  🌐 Portfolio ([Add Link] •
-  💼 LinkedIn (Add Link) •
-  🐦 Twitter (Add Link) •
-  📧 Email (Add Your Email)
+ < a href="https://dev-afzal-bare.pantheonsite.io/">🌐 Website</a> •
+ < a href="https://www.linkedin.com/in/afzalbare/">💼 LinkedIn</a> •
+ < a href="https://dev-afzal-bare.pantheonsite.io/">📧 Email</a> •
 </p>
 
 ---
