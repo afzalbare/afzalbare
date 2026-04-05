@@ -6,11 +6,10 @@
 </p>
 
 <p align="center">
- < a href="https://dev-afzal-bare.pantheonsite.io/">🌐 Website</a> •
- < a href="https://www.linkedin.com/in/afzalbare/">💼 LinkedIn</a> •
- < a href="https://dev-afzal-bare.pantheonsite.io/">📧 Email</a> •
+  <a href="https://dev-afzal-bare.pantheonsite.io/">🌐 Website</a> •
+  <a href="https://www.linkedin.com/in/afzalbare/">💼 LinkedIn</a> •
+  <a href="mailto:fmafzalulbare@gmail.com">📧 Email</a>
 </p>
-
 ---
 
 ## 🚀 About Me
