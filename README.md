@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🌐 Portfolio ([Add Link](https://dev-afzal-bare.pantheonsite.io/)) •
+  🌐 Portfolio ([Add Link] •
   💼 LinkedIn (Add Link) •
   🐦 Twitter (Add Link) •
   📧 Email (Add Your Email)
@@ -89,9 +89,9 @@ I specialize in creating custom WordPress websites using modern tools, page buil
 
 I'm always open to collaboration, freelance projects, or interesting web development opportunities.
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/your-profile  
-🌐 Portfolio: https://your-website.com  
+📧 Email: fmafzalulbare@gmail.com
+💼 LinkedIn: [https://www.linkedin.com/in/afzalbare/]  
+🌐 Portfolio: [https://dev-afzal-bare.pantheonsite.io/]  
 
 ---
 
